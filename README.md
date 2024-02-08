@@ -1,2 +1,2 @@
 # Weather-app
-App del Tiempo, utilizando la API OpenWeatherMap.
+App del Tiempo - PWA (Progressive Web Apps), utilizando la API OpenWeatherMap.
