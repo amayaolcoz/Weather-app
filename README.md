@@ -1,2 +1,2 @@
 # Weather-app
-App del Tiempo, con api OpenWeatherMap.
+App del Tiempo, utilizando la API OpenWeatherMap.
